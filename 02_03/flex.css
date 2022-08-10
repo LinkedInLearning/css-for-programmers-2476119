@@ -1,0 +1,12 @@
+.main {
+  margin: 0 auto;
+  width: min(100vw - 2rem, 50ch);
+  display: flex;
+  gap: 1rem;
+}
+
+.box {
+  flex: 1 1 33%;
+  padding: 0 1rem;
+  border: 2px solid black;
+}

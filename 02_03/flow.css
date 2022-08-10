@@ -1,0 +1,9 @@
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.main {
+  margin: 0 auto;
+  width: min(100vw - 2rem, 50ch);
+}
