@@ -61,8 +61,11 @@ figure.full-width>* {
 .quote {
   float: right;
   width: 50%;
-  margin-left: 2rem;
   margin-bottom: 2rem;
+  margin-left: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-left: 2rem;
   background: hsl(208, 96%, 23%);
   color: white;
 }
