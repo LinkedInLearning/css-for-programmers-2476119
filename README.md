@@ -1,7 +1,8 @@
 # CSS for Programmers 
 This is the repository for the LinkedIn Learning course CSS for Programmers. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![CSS for Programmers ][lil-thumbnail-url]
+![1666989755093](https://user-images.githubusercontent.com/28540243/200746099-dd8d3fb5-3e59-4c6a-9074-85448267171e.jpeg)
+
 
 Discover what makes CSS unique, how you can apply it to programming problems, and how to integrate it smoothly with your work. Instructor Morten Rand-Hendriksen discusses declarative and imperative languages, then goes into CSS syntax, the cascade, and more. He covers the CSS box model, as well as how to work with JavaScript frameworks to write CSS as part of JavaScript. Morten includes CSS techniques to counteract or even block the cascade. He also highlights ways to use HTML and CSS with JavaScript to build great markup.<br><br>This course is integrated with GitHub Codespaces, an instant cloud developer environment that offers all the functionality of your favorite IDE without the need for any local machine setup. With GitHub Codespaces, you can get hands-on practice from any machine, at any time—all while using a tool that you’ll likely encounter in the workplace. Check out the [Using GitHub Codespaces with this course][gcs-video-url] video to learn how to get started.
 
